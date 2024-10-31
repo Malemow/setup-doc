@@ -76,3 +76,13 @@
 - Graphics tablet:
   - [One By Wacon(2017)](https://www.wacom.com/zh-tw/support/product-support/drivers?sku=CTL472)
   - [Cintiq 16](https://store.wacom.tw/products.aspx?prssno=2499)
+- PC:
+  - CPU: [Intel i5-13400 [10;16]](https://www.intel.com.tw/content/www/tw/zh/products/sku/230495/intel-core-i513400-processor-20m-cache-up-to-4-60-ghz/specifications.html)
+  - MB: [MSI PRO B760M-A WIFI DDR4](https://tw.msi.com/Motherboard/PRO-B760M-A-WIFI-DDR4)
+  - RAM:
+    - [Kingston kit(16GB*2) DDR4-3600(KF436C18BBK2/32)(2048*8)](https://www.kingston.com/tw/memory/gaming/kingston-fury-beast-ddr4-rgb-memory)
+    - [Kingston kit(16GB*2) DDR4-3600(KF436C18BBK2/32)(2048*8)](https://www.kingston.com/tw/memory/gaming/kingston-fury-beast-ddr4-rgb-memory)
+  - COOLER: [MSI MAG CoreLiquid P240](https://tw.msi.com/Liquid-Cooling/MAG-CORELIQUID-P240)
+  - GPU: [MSI RTX4060 VENTUS 2X WHITE 8G OC\[萬圖師娘限量版\]\(2505MHz/19.9cm/雙風扇\)](https://tw.msi.com/Graphics-Card/GeForce-RTX-4060-VENTUS-2X-WHITE-8G-OC-VTS)
+  - CASE: [Montech SKY TWO White \(GPT:40;CPU:16.8\)](https://www.telon.com.tw/tc/products_detail.php?nid=307)
+  - POWER: [SUPER FLOWER LEADEX III 750W (Gold)](https://www.super-flower.com.tw/zh-TW/products/leadex-iii-gold-750w)
