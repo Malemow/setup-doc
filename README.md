@@ -45,6 +45,19 @@
 - [Buho](https://www.drbuho.com/zh-tw/buhocleaner)
 - [Grid](https://macgrid.app/)
 
+## Mac terminal plugin
+
+- [item2]
+- [ctop]
+- [btop]
+- [lsd]
+- [powerlevel10k]
+- [ohmyzsh]
+- [zsh-autosuggestions]
+- [zsh-syntax-highlighting]
+- [neovim]
+- [lazyvim]
+
 ## AI Tool
 
 - [ChatGPT Plus](https://chat.openai.com/) - Highly recommended
